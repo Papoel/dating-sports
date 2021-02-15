@@ -14,7 +14,7 @@
   <header>
     <div class="container">
       <nav>
-        <h1 class="navbar-title">Nom du s<span>i</span>te</h1>
+        <h1 class="navbar-title">Lov'<span>in</span> Sports</h1>
         <ul>
           <li><a href="../index.php">Accueil</a></li>
           <li><a href="#">Sports</a></li>
