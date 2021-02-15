@@ -18,9 +18,9 @@
         <ul>
           <li><a href="../index.php">Accueil</a></li>
           <li><a href="#">Sports</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="../database/connexionDb.php">Database</a></li> <!-- Contact a remttre après essai -->
           <li><a href="#">Connexion</a></li>
-          <li><a href="#">Inscription</a></li>
+          <li><a href="../components/signup.php">Inscription</a></li>
         </ul>
       </nav>
     </div>
